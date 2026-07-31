@@ -2,6 +2,11 @@
 
 Chatbot educativo construido con **Streamlit** que corre 100% en local usando **LM Studio** como servidor de inferencia. Prof. Paturri ayuda a estudiantes principiantes a entender código, depurar errores y aprender buenas prácticas de programación, con soporte para adjuntar capturas de pantalla (imágenes) cuando el modelo cargado soporta visión.
 
+¿Por qué se creó? Como estudiante me pasa mucho que realizo consultas  a la IA para solucionar errores de codigo u
+otros inconvenientes y me llega pasar que me quedo sin créditos, entonces decidí crear esto para que me ayude a
+resolver problemas de programación sin que se me agoten los créditos. Básicamente es un consultor ilimitado, 
+considero que cualquier estudiante puede copiarlo y hacerlo correr de manera local y apoyarse en su día a día.
+
 ## ✨ Características
 
 - 💬 Interfaz de chat con streaming de respuestas en tiempo real.
